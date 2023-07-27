@@ -5,8 +5,6 @@ public class Main {
 
         int anoDeLancamento = 2022;
         System.out.println("Ano de lançamento:  " + anoDeLancamento);
-        boolean incluidoNoPlano = true;
-        double notaDoFilme = 8.1;
 
         //Média calculada pelas 3 notas da Jack, Paulo e Eduardo
         double media = (9.8 + 6.3 + 8.5) / 3;
