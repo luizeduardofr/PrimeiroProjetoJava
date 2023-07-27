@@ -15,7 +15,7 @@ public class Main {
         sinopse = """
                 Filme Top Gun
                 Filme de aventura com galã dos anos 80
-                Muito bom! 
+                Muito bom!
                 Ano de lançamento
                 """ + anoDeLancamento;
 
